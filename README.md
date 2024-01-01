@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @kyrbii
-- 👀 I’m interested in tech-related things, gaming and spaceflight
-- 🌱 I’m currently studying 'Artificial Intelligence and Data Science' in Regensburg, Germany
-- 💞️ I’m looking to collaborate on machine learning and AI programs and anlgorithms
+[![Repos Badge](https://badges.pufler.dev/repos/kyrbii)](https://badges.pufler.dev)
+
+- 🌱 learning about AI and machine learning
+- :mortar_board: currently studying 'artificial intelligence and data science' in Regensburg, Germany
+- :computer: Currently learning C - Progrmming Lanugague
