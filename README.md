@@ -2,4 +2,4 @@
 
 - 🌱 learning about AI and machine learning
 - :mortar_board: currently studying 'artificial intelligence and data science' in Regensburg, Germany
-- :computer: Currently learning C - Progrmming Lanugague
+- :computer: on the brink of learning Python, already getting along with C
